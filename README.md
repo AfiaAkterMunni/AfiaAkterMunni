@@ -25,6 +25,15 @@
   <img alt="Vcode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> 
 </p>
 
+<br>
+<br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfiaAkterMunni&langs_count_private=true&theme=gotham&card_width=400)
+
+<br>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=AfiaAkterMunni&show_icons=true&theme=gotham" alt="AfiaAkterMunni" />
+
 ### Visitor count
 <img src="https://profile-counter.glitch.me/AfiaAkterMunni/count.svg" />
 
