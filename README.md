@@ -33,6 +33,8 @@
 
 <br>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=AfiaAkterMunni&show_icons=true&theme=gotham" alt="AfiaAkterMunni" />
+  
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/afiamunni03?theme=dark&font=Text%20Me%20One)
 
 ### Visitor count
 <img src="https://profile-counter.glitch.me/AfiaAkterMunni/count.svg" />
